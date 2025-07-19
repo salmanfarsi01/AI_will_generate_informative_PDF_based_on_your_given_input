@@ -1,8 +1,9 @@
 🎓 Matched Information to PDF Generator
 This Jupyter Notebook generates synthetic foundation data, matches relevant info using a LLM, and exports the matched results to a PDF file.
 
-📌 Features
-Generates dummy foundation data (names, locations, fields, funding types, deadlines, contacts).
+<img width="825" height="436" alt="Screenshot 2025-07-19 163355" src="https://github.com/user-attachments/assets/f4a97d28-cf13-4d94-b5ad-41f87cb641ce" />
+
+📌 Features Generates dummy foundation data (names, locations, fields, funding types, deadlines, contacts).
 
 Uses Google Generative AI (Gemini) to process and match information.
 
@@ -22,6 +23,8 @@ Uses your Google Generative AI API key to match or filter data as needed.
 
 4️⃣ Export PDF:
 Takes the matched results and saves them as a PDF report.
+
+<img width="752" height="485" alt="Screenshot 2025-07-19 163420" src="https://github.com/user-attachments/assets/4e10780d-72ce-42d7-8dbe-8ed7d4d23b17" />
 
 🧩 Tech Stack
 Python (pandas, faker, fpdf)
